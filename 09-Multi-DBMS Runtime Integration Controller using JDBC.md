@@ -1,4 +1,4 @@
-# 09 - Multi-DBMS Runtime Integration Controller using JDBC
+# Multi-DBMS Runtime Integration Controller using JDBC
 
 ## Overview
 
@@ -75,7 +75,7 @@ This makes the code:
 
 ## Method Registry
 
-| Method                        | Purpose                         |
+| **Method**                        | **Purpose**                         |
 | ----------------------------- | ------------------------------- |
 | main()                        | Entry point of application      |
 | connectOracle()               | Connects to Oracle Database     |
@@ -184,7 +184,7 @@ jdbc:oracle:thin:@localhost:1521:xe
 
 Explanation:
 
-| Part      | Meaning                    |
+| **Part**      | **Meaning**                    |
 | --------- | -------------------------- |
 | jdbc      | JDBC protocol              |
 | oracle    | Oracle database            |
@@ -203,7 +203,7 @@ jdbc:mysql://localhost:3306/test
 
 Explanation:
 
-| Part      | Meaning            |
+| **Part**      | **Meaning**            |
 | --------- | ------------------ |
 | jdbc      | JDBC protocol      |
 | mysql     | MySQL database     |
