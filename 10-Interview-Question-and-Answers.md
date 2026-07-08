@@ -1,4 +1,4 @@
-# 09-JDBC-with-MySQL: Master Interview Preparation Guide
+# JDBC-with-MySQL: Master Interview Preparation Guide
 
 ---
 
