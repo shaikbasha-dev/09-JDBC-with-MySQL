@@ -1,4 +1,4 @@
-# 06 - Insert Multiple Rows into MySQL Database using JDBC
+# Insert Multiple Rows into MySQL Database using JDBC
 
 ## Overview
 
@@ -141,7 +141,7 @@ String url =
 
 Explanation:
 
-| Part      | Meaning            |
+| **Part**      | **Meaning**            |
 | --------- | ------------------ |
 | jdbc      | JDBC protocol      |
 | mysql     | Database type      |
@@ -305,7 +305,7 @@ END
 
 ## JDBC Methods Used
 
-| Method            | Purpose                         |
+| **Method**            | **Purpose**                         |
 | ----------------- | ------------------------------- |
 | getConnection()   | Creates database connection     |
 | createStatement() | Creates Statement object        |
