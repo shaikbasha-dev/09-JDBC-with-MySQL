@@ -1,4 +1,4 @@
-# 03 - Establish Connection Between Java and MySQL Database
+# Establish Connection Between Java and MySQL Database
 
 ## Overview
 
@@ -81,7 +81,7 @@ jdbc:mysql://localhost:3306/test
 
 This URL contains:
 
-| Part      | Meaning                   |
+| **Part**      | **Meaning**                   |
 | --------- | ------------------------- |
 | jdbc      | JDBC Protocol             |
 | mysql     | Database Type             |
