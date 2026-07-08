@@ -1,4 +1,4 @@
-# 04 - Insert a Row into MySQL Database using JDBC
+# Insert a Row into MySQL Database using JDBC
 
 ## Overview
 
@@ -151,7 +151,7 @@ String url = "jdbc:mysql://localhost:3306/test";
 
 Explanation:
 
-| Part      | Meaning         |
+| **Part**      |** Meaning**         |
 | --------- | --------------- |
 | jdbc      | JDBC Protocol   |
 | mysql     | Database Type   |
@@ -337,7 +337,7 @@ END
 
 ## Important Methods Used
 
-| Method                        | Purpose                         |
+| **Method**                        | **Purpose**                         |
 | ----------------------------- | ------------------------------- |
 | DriverManager.getConnection() | Creates database connection     |
 | createStatement()             | Creates Statement object        |
