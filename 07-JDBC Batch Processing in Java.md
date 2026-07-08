@@ -1,4 +1,4 @@
-# 07 - JDBC Batch Processing in Java
+# JDBC Batch Processing in Java
 
 ## Overview
 
@@ -321,7 +321,7 @@ END
 
 ## Normal Execution vs Batch Processing
 
-| Normal Execution        | Batch Processing      |
+| **Normal Execution**        | **Batch Processing**      |
 | ----------------------- | --------------------- |
 | Multiple database calls | Single database call  |
 | Slower                  | Faster                |
