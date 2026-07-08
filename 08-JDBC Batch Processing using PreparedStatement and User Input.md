@@ -1,4 +1,4 @@
-# 08 - JDBC Batch Processing using PreparedStatement and User Input
+# JDBC Batch Processing using PreparedStatement and User Input
 
 ## Overview
 
@@ -398,7 +398,7 @@ END
 
 ## PreparedStatement vs Statement
 
-| Statement                      | PreparedStatement           |
+| **Statement**                      | **PreparedStatement**           |
 | ------------------------------ | --------------------------- |
 | Hardcoded SQL                  | Parameterized SQL           |
 | Less secure                    | Prevents SQL Injection      |
