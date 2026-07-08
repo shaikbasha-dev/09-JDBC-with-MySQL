@@ -1,4 +1,4 @@
-# 01 - Editions of Java and Web Application Architecture
+# Editions of Java and Web Application Architecture
 
 ## 1. Editions of Java
 
@@ -6,7 +6,9 @@ Java is divided into different editions based on the type of application develop
 
 ### 1. JSE - Java Standard Edition
 
-Java Standard Edition (JSE) is used to develop standalone or desktop applications. It provides the core features of Java such as:
+Java Standard Edition (JSE) is used to **develop standalone or desktop applications**. 
+
+It provides the core features of Java such as:
 
 * Object-Oriented Programming
 * Exception Handling
@@ -27,7 +29,7 @@ Java Standard Edition (JSE) is used to develop standalone or desktop application
 
 ### 2. JEE - Java Enterprise Edition
 
-Java Enterprise Edition (JEE), now known as Jakarta EE, is used to develop web and enterprise applications.
+Java Enterprise Edition (JEE), now known as Jakarta EE, is used to **develop web and enterprise applications**.
 
 It provides technologies such as:
 
@@ -49,7 +51,7 @@ It provides technologies such as:
 
 ### 3. JME - Java Micro Edition
 
-Java Micro Edition (JME) is used to develop applications for small devices with limited memory and processing power.
+Java Micro Edition (JME) is used to **develop applications for small devices with limited memory and processing power**.
 
 **Examples:**
 
@@ -62,7 +64,7 @@ Java Micro Edition (JME) is used to develop applications for small devices with 
 
 ### 4. JavaFX
 
-JavaFX is a Java platform used for building Graphical User Interface (GUI) applications.
+JavaFX is a Java platform used for **building Graphical User Interface (GUI) applications**.
 
 Features:
 
@@ -366,7 +368,7 @@ Functions:
 
 # 10. Important Terms
 
-| Abbreviation | Full Form                  |
+| **Abbreviation** | **Full Form**                  |
 | ------------ | -------------------------- |
 | JSP          | Java Server Pages          |
 | JDBC         | Java Database Connectivity |
