@@ -1,4 +1,4 @@
-# 05 - Retrieve Data from MySQL Database using JDBC
+# Retrieve Data from MySQL Database using JDBC
 
 ## Overview
 
@@ -154,7 +154,7 @@ String url =
 
 Explanation:
 
-| Part      | Meaning         |
+| **Part**      | **Meaning**         |
 | --------- | --------------- |
 | jdbc      | JDBC Protocol   |
 | mysql     | Database Type   |
@@ -383,7 +383,7 @@ END
 
 ## Important JDBC Methods Used
 
-| Method            | Purpose                     |
+| **Method**            | **Purpose**                     |
 | ----------------- | --------------------------- |
 | getConnection()   | Creates database connection |
 | createStatement() | Creates Statement object    |
@@ -397,7 +397,7 @@ END
 
 ## Difference Between executeQuery() and executeUpdate()
 
-| executeQuery()    | executeUpdate()                 |
+| **executeQuery()**    | **executeUpdate()**                 |
 | ----------------- | ------------------------------- |
 | Used for SELECT   | Used for INSERT, UPDATE, DELETE |
 | Returns ResultSet | Returns integer                 |
