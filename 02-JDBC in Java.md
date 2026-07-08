@@ -1,4 +1,4 @@
-# 02 - JDBC in Java
+# JDBC in Java
 
 ## 1. What is JDBC?
 
@@ -19,7 +19,7 @@ JDBC is part of the **java.sql** package.
 
 ## 2. Why Do We Need JDBC?
 
-JDBC is used because Java applications often need to store and retrieve data from databases.
+JDBC is used because **Java applications often need to store and retrieve data from databases**.
 
 Using JDBC, a Java program can:
 
@@ -225,7 +225,7 @@ It:
 
 Examples:
 
-| Database   | Driver Class                    |
+| **Database**   | **Driver Class**                    |
 | ---------- | ------------------------------- |
 | MySQL      | com.mysql.cj.jdbc.Driver        |
 | Oracle     | oracle.jdbc.driver.OracleDriver |
@@ -278,7 +278,7 @@ st.executeQuery("SELECT * FROM student");
 
 Common Methods:
 
-| Method          | Description                     |
+| **Method**          | **Description**                     |
 | --------------- | ------------------------------- |
 | executeQuery()  | Executes SELECT query           |
 | executeUpdate() | Executes INSERT, UPDATE, DELETE |
@@ -308,7 +308,7 @@ while(rs.next()) {
 
 Common Methods:
 
-| Method      | Description             |
+| **Method**      | **Description**             |
 | ----------- | ----------------------- |
 | next()      | Moves to next row       |
 | getInt()    | Retrieves integer value |
